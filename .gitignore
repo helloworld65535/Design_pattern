@@ -1,8 +1,8 @@
 /Facade_Pattern
 
-**/*build*
+**/build
 **/.idea
-# **/cmake*
+**/cmake*
 **/.vs
 **/.vscode
 **/out
