@@ -1,0 +1,11 @@
+/Facade_Pattern
+
+**/*build*
+**/.idea
+# **/cmake*
+**/.vs
+**/.vscode
+**/out
+
+
+!CMakeLists.txt
