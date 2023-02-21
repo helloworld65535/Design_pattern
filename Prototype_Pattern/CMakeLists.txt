@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.24)
+cmake_minimum_required(VERSION 3.20)
 project(Prototype_Pattern)
 
 set(CMAKE_CXX_STANDARD 17)
